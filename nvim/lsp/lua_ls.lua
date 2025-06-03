@@ -7,6 +7,7 @@ return {
 	},
 	root_markers = {
 		".git",
+    ".jj",
 		".luacheckrc",
 		".luarc.json",
 		".luarc.jsonc",
