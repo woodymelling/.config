@@ -1,15 +1,1 @@
-# Woodys NVIM config
-## Installation
-
-```sh
-jj git clone https://github.com/nvim-lua/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
-```
-
-# Features
-## Swift
-- Syntax Highlighting
-- Autocompletion
-- Language
-```
-</details>
-
+Neovim Config using here: https://youtu.be/IZnhl121yo0
