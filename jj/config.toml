@@ -1,0 +1,8 @@
+[user]
+name = "Woodrow Melling"
+email = "woodymelling@gmail.com"
+
+[ui]
+paginate = "never"
+editor = "nvim"
+
