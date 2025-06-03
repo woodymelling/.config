@@ -1,4 +1,4 @@
-# Woodys Kickstart.nvim
+# Woodys NVIM config
 ## Installation
 
 ```sh
