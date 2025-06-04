@@ -1,0 +1,6 @@
+brew "jj"
+brew "neovim"
+brew "swiftformat"
+brew "swiftlint"
+brew "yt-dlp"
+brew "zoxide"

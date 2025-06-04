@@ -5,4 +5,5 @@ email = "woodymelling@gmail.com"
 [ui]
 paginate = "never"
 editor = "nvim"
+default-command = "log"
 

@@ -1,0 +1,1 @@
+/Users/woody/.config/zsh/.zshenv
