@@ -67,14 +67,14 @@ vim.api.nvim_create_autocmd('TermOpen', {
     pattern = '*',
     callback = function()
       local opts = { buffer = 0 }
-  
       -- Start in insert mode
       vim.cmd 'startinsert'
-  
+
       -- Easier way to exit terminal mode
-      vim.keymap.set('t', '<Esc><Esc>', [[<C-\><C-n>]], opts)
-  
+      vim.keymap.set('t', '<Esc>', [[<C-\><C-n>]], opts)
+
       vim.wo.number = false
       vim.wo.relativenumber = false
     end,
   })
+
