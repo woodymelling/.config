@@ -28,6 +28,7 @@ return {
                 'markdown_inline',
                 'query',
                 'swift',
+                'ledger',
                 'vim',
                 'vimdoc'
             },
